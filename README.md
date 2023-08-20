@@ -5,10 +5,13 @@ This is yet another Minecraft-Themed GRUB theme, but despite i'm using [Mine-Ima
 ## Installation
 
 1. Clone this repository
-        https://github.com/PigmanYT3531/grub-mineshaft-theme.git
+
+        git clone https://github.com/PigmanYT3531/grub-mineshaft-theme.git
+
 2. (Optional) Pick the background from the `alternate` folder (not available yet), or you can even render the background yourself with the included project file (texture pack not included)
 3. Paste the theme to GRUB's theme folder (`/boot/grub/themes`), remember to paste the entire folder, not just the `theme.txt`
 4. Open `/etc/default/grub`, find and modify these lines
+
         # Uncomment one of them for the gfx desired, a image background or a gfxtheme
         #GRUB_BACKGROUND="/path/to/wallpaper"
         GRUB_THEME="/boot/grub/themes/grub-mineshaft/theme.txt"
