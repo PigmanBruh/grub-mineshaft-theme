@@ -17,6 +17,7 @@ This is yet another Minecraft-Themed GRUB theme, but despite i'm using [Mine-Ima
         GRUB_THEME="/boot/grub/themes/grub-mineshaft/theme.txt"
 
 5. Generate your GRUB config
+
         sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 ## Credits
