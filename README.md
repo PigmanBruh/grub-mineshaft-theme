@@ -2,7 +2,7 @@
 
 This is yet another Minecraft-Themed GRUB theme, but despite i'm using [Mine-Imator](https://www.mineimator.com/) to make the backgrounds, it barely resembles Minecraft style because i used a photo-realistic texture packs
 
-### Installation
+## Installation
 
 1. Clone this repository
 2. (Optional) Pick the background from the `alternate` folder (not available yet), or you can even render the background yourself with the included project file (texture pack not included)
@@ -15,10 +15,15 @@ This is yet another Minecraft-Themed GRUB theme, but despite i'm using [Mine-Ima
 
 5. Generate your GRUB config
 
-### Credits :
+## Credits
 
 [Distro Grub Theme](https://github.com/AdisonCavani/distro-grub-themes) : The base of this theme, and a lot of icons
 
-### Texture Pack Used :
+## Texture Pack Used
 
 [Stratum](https://continuum.graphics/stratum-resourcepack)
+
+## Screenshot
+
+![Screenshot](https://github.com/PigmanYT3531/grub-mineshaft-theme/assets/87263998/dfac2835-22d0-4ee9-8abf-7975abecf9ce)
+Rendered with Stratum texture pack, previewed with [grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview)
