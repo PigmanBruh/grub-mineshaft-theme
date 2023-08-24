@@ -1,6 +1,6 @@
 # grub-mineshaft-theme
 
-This is yet another Minecraft-Themed GRUB theme, but despite i'm using [Mine-Imator](https://www.mineimator.com/) to make the backgrounds, it barely resembles Minecraft style because i used a photo-realistic texture packs
+This is yet another Minecraft-Themed GRUB theme, but despite i'm using [Mine-Imator](https://www.mineimator.com/) to make the backgrounds, it barely resembles Minecraft style because i'm using photo-realistic texture packs
 
 ## Installation
 
